@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/personalnews360-30636-6f96cfb5/personal_news360"
+}
